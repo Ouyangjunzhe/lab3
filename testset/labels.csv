@@ -1,0 +1,51 @@
+﻿file,class_index,imagenet_id,class_name
+00_tench/00_n01440764_01.jpg,0,n01440764,tench
+00_tench/00_n01440764_02.jpg,0,n01440764,tench
+00_tench/00_n01440764_03.jpg,0,n01440764,tench
+00_tench/00_n01440764_04.jpg,0,n01440764,tench
+00_tench/00_n01440764_05.jpg,0,n01440764,tench
+01_English_springer/01_n02102040_01.jpg,1,n02102040,English springer
+01_English_springer/01_n02102040_02.jpg,1,n02102040,English springer
+01_English_springer/01_n02102040_03.jpg,1,n02102040,English springer
+01_English_springer/01_n02102040_04.jpg,1,n02102040,English springer
+01_English_springer/01_n02102040_05.jpg,1,n02102040,English springer
+02_cassette_player/02_n02979186_01.jpg,2,n02979186,cassette player
+02_cassette_player/02_n02979186_02.jpg,2,n02979186,cassette player
+02_cassette_player/02_n02979186_03.jpg,2,n02979186,cassette player
+02_cassette_player/02_n02979186_04.jpg,2,n02979186,cassette player
+02_cassette_player/02_n02979186_05.jpg,2,n02979186,cassette player
+03_chain_saw/03_n03000684_01.jpg,3,n03000684,chain saw
+03_chain_saw/03_n03000684_02.jpg,3,n03000684,chain saw
+03_chain_saw/03_n03000684_03.jpg,3,n03000684,chain saw
+03_chain_saw/03_n03000684_04.jpg,3,n03000684,chain saw
+03_chain_saw/03_n03000684_05.jpg,3,n03000684,chain saw
+04_church/04_n03028079_01.jpg,4,n03028079,church
+04_church/04_n03028079_02.jpg,4,n03028079,church
+04_church/04_n03028079_03.jpg,4,n03028079,church
+04_church/04_n03028079_04.jpg,4,n03028079,church
+04_church/04_n03028079_05.jpg,4,n03028079,church
+05_French_horn/05_n03394916_01.jpg,5,n03394916,French horn
+05_French_horn/05_n03394916_02.jpg,5,n03394916,French horn
+05_French_horn/05_n03394916_03.jpg,5,n03394916,French horn
+05_French_horn/05_n03394916_04.jpg,5,n03394916,French horn
+05_French_horn/05_n03394916_05.jpg,5,n03394916,French horn
+06_garbage_truck/06_n03417042_01.jpg,6,n03417042,garbage truck
+06_garbage_truck/06_n03417042_02.jpg,6,n03417042,garbage truck
+06_garbage_truck/06_n03417042_03.jpg,6,n03417042,garbage truck
+06_garbage_truck/06_n03417042_04.jpg,6,n03417042,garbage truck
+06_garbage_truck/06_n03417042_05.jpg,6,n03417042,garbage truck
+07_gas_pump/07_n03425413_01.jpg,7,n03425413,gas pump
+07_gas_pump/07_n03425413_02.jpg,7,n03425413,gas pump
+07_gas_pump/07_n03425413_03.jpg,7,n03425413,gas pump
+07_gas_pump/07_n03425413_04.jpg,7,n03425413,gas pump
+07_gas_pump/07_n03425413_05.jpg,7,n03425413,gas pump
+08_golf_ball/08_n03445777_01.jpg,8,n03445777,golf ball
+08_golf_ball/08_n03445777_02.jpg,8,n03445777,golf ball
+08_golf_ball/08_n03445777_03.jpg,8,n03445777,golf ball
+08_golf_ball/08_n03445777_04.jpg,8,n03445777,golf ball
+08_golf_ball/08_n03445777_05.jpg,8,n03445777,golf ball
+09_parachute/09_n03888257_01.jpg,9,n03888257,parachute
+09_parachute/09_n03888257_02.jpg,9,n03888257,parachute
+09_parachute/09_n03888257_03.jpg,9,n03888257,parachute
+09_parachute/09_n03888257_04.jpg,9,n03888257,parachute
+09_parachute/09_n03888257_05.jpg,9,n03888257,parachute
